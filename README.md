@@ -25,6 +25,13 @@ GMail account, and input the search query and max results you wish to fetch.
 - PHP 7.1
 - Composer
 
+### TODO
+
+- Better interface
+- Export to CSV/XLS
+- Remove duplicates
+- View search results preview
+
 
 ### License
 
