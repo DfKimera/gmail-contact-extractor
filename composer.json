@@ -1,0 +1,14 @@
+{
+    "name": "dfkimera/gmail-extract-contacts",
+    "authors": [
+        {
+            "name": "Aryel Tupinamba",
+            "email": "aryel.tupinamba@lqdi.net"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^5.4",
+        "google/apiclient": "^2.0",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
